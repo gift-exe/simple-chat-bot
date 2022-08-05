@@ -1,2 +1,2 @@
-# simple-chat-bot
+chat-bot
 using python nltk module
